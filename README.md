@@ -10,5 +10,5 @@ Young Readers will be given an introduction to the amazing world of Amphibians, 
 • Can be Read Offline
 <hr>
 <h2>Screenshot<h2>
-<img src="">
-<img src="">
+<img src="https://github.com/AnchalPandey29/Amphibian-app/blob/main/1.png">
+<img src="https://github.com/AnchalPandey29/Amphibian-app/blob/main/2.png">
