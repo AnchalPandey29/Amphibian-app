@@ -12,3 +12,7 @@ Young Readers will be given an introduction to the amazing world of Amphibians, 
 <h2>Screenshot<h2>
 <img src="https://github.com/AnchalPandey29/Amphibian-app/blob/main/1.png" height="400px">
 <img src="https://github.com/AnchalPandey29/Amphibian-app/blob/main/2.png" height="400px" ><br>
+<p align="center">
+Show ❤️ by starring repositories you find good!<br>
+Also, ⭐️ and fork this repository if you wish to give this new feature a try!
+</p>
